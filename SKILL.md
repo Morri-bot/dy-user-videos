@@ -160,4 +160,6 @@ curl -s --connect-timeout 10 --max-time 30 "{base_url}/dy_fetch_one_video_v3?awe
 - 完成：`✅ D:\xxx\dy_user_videos_{作者名}_{日期}.xlsx 双击打开～`
 - 提示：`💡 需要时长？说「查第N个」看完整详情`
 
-**「导出到飞书」：** 「飞书导出开发中，当前支持 Excel」
+**「导出到飞书」：** 检查 `export.feishu.app_id`：
+- 为空 → 「飞书还没配置。跟着教程走，5分钟搞定 👇」→ 读 `references/export-feishu-setup.md` → 逐步引导
+- 已配置 → 获取 token → bitable_id 为空则自动创建多维表格 → 批量写入 → `✅ 已导入 N 条`

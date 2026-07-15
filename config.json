@@ -11,5 +11,13 @@
   "pagination": {
     "default_count": 20,
     "max_pages_auto": 5
+  },
+  "export": {
+    "feishu": {
+      "app_id": "",
+      "app_secret": "",
+      "bitable_id": "",
+      "table_id": ""
+    }
   }
 }
