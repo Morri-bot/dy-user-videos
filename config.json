@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "author": "阿南 rockmoons（抖音）",
+    "wechat": "rockmoons",
+    "website": "www.rockmoons.com"
+  },
+  "douyin": {
+    "apikey": "",
+    "base_url": "https://api.rockmoons.com/blade-links/openapi/plugin"
+  },
+  "pagination": {
+    "default_count": 20,
+    "max_pages_auto": 5
+  }
+}
