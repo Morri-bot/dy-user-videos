@@ -7,6 +7,12 @@ description: 抖音用户作品查询工具。输入抖音视频链接、用户�
 
 > 作者：阿南 rockmoons（抖音）· 微信：rockmoons · API：www.rockmoons.com
 
+## 中文编码铁律
+
+凡处理中文的 shell 命令，一律写成 Python 脚本文件再执行，禁止在命令行直接拼接中文字符串。Python 脚本头部加 `# -*- coding: utf-8 -*-`。
+
+---
+
 输入一个链接，返回该作者全部作品，翻页浏览，一键导出 Excel。
 
 ---
