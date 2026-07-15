@@ -83,7 +83,7 @@ curl -s --connect-timeout 10 --max-time 30 "{base_url}/dy_fetch_user_post?sec_us
 每页拿到作品列表后，把本页所有 `作品ID` 打包调批量统计接口获取真实播放数：
 
 ```bash
-curl -s --connect-timeout 10 --max-time 30 "{base_url}/dy_fetch_multi_video_statistics?aweme_ids={ID1,ID2,...}&apikey={douyin.stats_apikey}"
+curl -s --connect-timeout 10 --max-time 30 "{base_url}/dy_fetch_multi_video_statistics?aweme_ids={ID1,ID2,...}&apikey={douyin.apikey}"
 ```
 
 最多传 50 个 ID。按 `作品ID` 逐条匹配后覆盖 `播放数`。用户无感知（黑盒操作）。
