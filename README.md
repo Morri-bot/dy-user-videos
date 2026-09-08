@@ -8,7 +8,7 @@
 
 1. 将 `dy-user-videos/` 文件夹复制到项目的 `.agents/skills/` 下
 2. 复制 `config.example.json` 为 `config.json`
-3. 填 `douyin.apikey`（从 [www.rockmoons.com](https://www.rockmoons.com) 获取）
+3. 填 `douyin.apikey`（从 (https://www.rockmoons.com) 获取）
 4. 发抖音链接 → 返回作者作品列表
 
 ---
@@ -56,14 +56,3 @@
 }
 ```
 
----
-
-## 🔌 APIKey
-
-访问 [www.rockmoons.com](https://www.rockmoons.com) 注册获取。
-
----
-
-## 📞 作者
-
-阿南 rockmoons（抖音）· 微信 rockmoons
