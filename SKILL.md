@@ -1,11 +1,11 @@
 ---
 name: dy-user-videos
-description: 抖音用户作品查询工具。输入抖音视频链接、用户主页链接或sec_user_id，查看该作者全部公开发布的作品列表，支持翻页浏览、查看单条视频详情、导出Excel。当用户发送抖音用户链接（douyin.com/user/）或抖音视频链接想查作者作品，或提到「查作者」「这个作者」「作品列表」「作者视频」时使用。作者：阿南 rockmoons（抖音）微信：rockmoons API：www.rockmoons.com
+description: 抖音用户作品查询工具。输入抖音视频链接、用户主页链接或sec_user_id，查看该作者全部公开发布的作品列表，支持翻页浏览、查看单条视频详情、导出Excel。当用户发送抖音用户链接（douyin.com/user/）或抖音视频链接想查作者作品，或提到「查作者」「这个作者」「作品列表」「作者视频」时使用。
 ---
 
 # dy-user-videos · 抖音用户作品查询
 
-> 作者：阿南 rockmoons（抖音）· 微信：rockmoons · API：www.rockmoons.com
+> 作者：敏敏AI（抖音）
 
 ## 中文编码铁律
 
